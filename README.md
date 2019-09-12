@@ -1,5 +1,5 @@
 # awesome-zowe
-Awesome list of Zowe samples, starter repos, APIs, plugins, examples, tutorials, videos and anything else Zowe. 
+:sunglasses: Awesome list of Zowe samples, starter repos, APIs, plugins, examples, tutorials, videos and anything else Zowe. 
 
 **Table Of Contents:**
 - [Official Resources](official-resources)
