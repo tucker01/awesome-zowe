@@ -1,4 +1,4 @@
-# awesome-zowe
+# Awesome Zowe [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 :sunglasses: Awesome list of Zowe samples, starter repos, APIs, plugins, examples, tutorials, videos and anything else Zowe. 
 
 **Table Of Contents:**
