@@ -4,6 +4,8 @@ Awesome list of Zowe samples, starter repos, APIs, plugins, examples, tutorials,
 **Table Of Contents:**
 - [Official Resources](official-resources)
 - [Zowe Samples](zowe-samples)
+- [Zowe Compatible APIs](zowe-compatible-apis)
+    - [Open Source APIs](open-source-apis
 - [Zowe CLI Plugins](zowe-cli-plugins)
     - [Open Source Plugins](open-source-plugins)
     - [Closed Source Plugins Available on npm](closed-source-plugins-available-on-npm)
@@ -17,6 +19,10 @@ Awesome list of Zowe samples, starter repos, APIs, plugins, examples, tutorials,
 # Zowe Samples
 - [API Mediation Layer Sample Starter](https://github.com/zowe/sample-spring-boot-api-service)
 - [Zowe CLI Sample Plugin](https://github.com/zowe/zowe-cli-sample-plugin)
+
+# Zowe Compatible APIs
+## Open Source APIs
+- https://github.com/zowe/ims-operations-api
 
 # Zowe CLI Plugins
 ## Open Source Plugins
