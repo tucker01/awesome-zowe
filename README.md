@@ -5,7 +5,7 @@ Awesome list of Zowe samples, starter repos, APIs, plugins, examples, tutorials,
 - [Official Resources](official-resources)
 - [Zowe Samples](zowe-samples)
 - [Zowe Compatible APIs](zowe-compatible-apis)
-    - [Open Source APIs](open-source-apis
+    - [Open Source APIs](open-source-apis)
 - [Zowe CLI Plugins](zowe-cli-plugins)
     - [Open Source Plugins](open-source-plugins)
     - [Closed Source Plugins Available on npm](closed-source-plugins-available-on-npm)
