@@ -53,6 +53,7 @@ A growing (and awesome) list of Zowe samples, APIs, plugins, examples, tutorials
 - https://www.npmjs.com/package/@broadcom/caview-for-zowe-cli
 - https://www.npmjs.com/package/@broadcom/endevor-for-zowe-cli
 - https://www.npmjs.com/package/@broadcom/file-master-plus-for-zowe-cli
+- https://www.npmjs.com/package/@broadcom/jclcheck-for-zowe-cli
 - https://www.npmjs.com/package/@broadcom/ops-for-zowe-cli
 
 # IDE/Editor Extensions
