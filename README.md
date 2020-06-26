@@ -14,7 +14,7 @@ A growing (and awesome) list of Zowe samples, APIs, plugins, examples, tutorials
 - [IDE/Editor Extensions](#ideeditor-extensions)
 
 # Official Resources
-- [Site](https://www.zowe.org/)
+- [Website](https://www.zowe.org/)
 - [Github](https://github.com/zowe)
 - [Docs](https://docs.zowe.org/stable/)
 - [Slack](https://slack.openmainframeproject.org/)
@@ -39,24 +39,27 @@ A growing (and awesome) list of Zowe samples, APIs, plugins, examples, tutorials
 # Zowe CLI Plugins
 ## Open Source Plugins
 - https://github.com/zowe/zowe-cli-cics-plugin
+- https://github.com/IBM/zowe-cli-cics-deploy-plugin
 - https://github.com/zowe/zowe-cli-db2-plugin
+- https://github.com/phoenixsoftware/ejes-cli
 - https://github.com/zowe/zowe-cli-ftp-plugin
 - https://github.com/zowe/zowe-cli-ims-plugin
 - https://github.com/zowe/zowe-cli-mq-plugin
-- https://github.com/zowe/zowe-cli-zos-make-plugin
-- https://github.com/IBM/zowe-cli-cics-deploy-plugin
 - https://github.com/zosconnect/zowe-cli-zosconnect-plugin
-- https://github.com/zowe/zowe-cli-mq-plugin
-- https://github.com/phoenixsoftware/ejes-cli
+- https://github.com/zowe/zowe-cli-zos-make-plugin
 
 ## Closed Source Plugins Available on npm
+- https://www.npmjs.com/package/@broadcom/caspool-for-zowe-cli
 - https://www.npmjs.com/package/@broadcom/caview-for-zowe-cli
 - https://www.npmjs.com/package/@broadcom/endevor-for-zowe-cli
+- https://www.npmjs.com/package/@broadcom/endevor-bridge-for-git-for-zowe-cli
 - https://www.npmjs.com/package/@broadcom/file-master-plus-for-zowe-cli
 - https://www.npmjs.com/package/@broadcom/jclcheck-for-zowe-cli
+- https://www.npmjs.com/package/@broadcom/mat-analyze-for-zowe-cli
+- https://www.npmjs.com/package/@broadcom/mat-detect-for-zowe-cli
 - https://www.npmjs.com/package/@broadcom/ops-for-zowe-cli
 
 # IDE/Editor Extensions
 
-- [Visual Studio Code Extension for Zowe](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe)
+- [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe)
 
