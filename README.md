@@ -78,3 +78,4 @@ A growing (and awesome) list of Zowe samples, APIs, plugins, examples, tutorials
 - [COBOL Control Flow](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.ccf)
 - [Dataset Viewer](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.data-set-viewer)
 - [Bridge for Git Explorer](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.bridge-for-git-explorer)
+- [JCL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.jcl-language-support)
