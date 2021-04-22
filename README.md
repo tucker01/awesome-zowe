@@ -58,8 +58,23 @@ A growing (and awesome) list of Zowe samples, APIs, plugins, examples, tutorials
 - https://www.npmjs.com/package/@broadcom/mat-analyze-for-zowe-cli
 - https://www.npmjs.com/package/@broadcom/mat-detect-for-zowe-cli
 - https://www.npmjs.com/package/@broadcom/ops-for-zowe-cli
+- https://www.npmjs.com/package/@broadcom/idms-for-zowe-cli
+- https://www.npmjs.com/package/@broadcom/sysview-for-zowe-cli
+- https://www.npmjs.com/package/@broadcom/ca7-for-zowe-cli
+
 
 # IDE/Editor Extensions
 
 - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe)
-
+- [Zowe Explorer FTP](https://marketplace.visualstudio.com/items?itemName=Zowe.zowe-explorer-ftp-extension)
+- [IBM Z Open Editor](https://marketplace.visualstudio.com/items?itemName=IBM.zopeneditor)
+- [HCL Z Tools](https://marketplace.visualstudio.com/items?itemName=hcl.hcl-ztools)
+- [Broadcom's Code4Z Extension Pack](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.code4z-extension-pack)
+  - [HLASM Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support)
+  - [COBOL Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.cobol-language-support)
+  - [Explorer for Endevor](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.explorer-for-endevor)
+  - [Debugger for Mainframe](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.debugger-for-mainframe)
+- [REXX Language Support](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.lsp-for-rexx)
+- [COBOL Control Flow](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.ccf)
+- [Dataset Viewer](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.data-set-viewer)
+- [Bridge for Git Explorer](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.bridge-for-git-explorer)
